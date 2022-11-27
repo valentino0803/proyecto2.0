@@ -1,0 +1,81 @@
+body{
+    background-color: #B4B4B4;
+    font:Kanit   
+}
+#titulo {
+    position: absolute;
+    width: 174px;
+    height: 36px;
+    left: 89px;
+    top: 38px;
+    margin: 0px auto;
+
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+
+    border: 1px solid #000000;
+}
+#usuario{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 75px;
+    top: 106px;
+    
+    background: #FF8C45;
+    border: 1px solid #020202;
+    border-radius: 8px;
+}
+#contra{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 75px;
+    top: 162px;
+    
+    background: #FF8C45;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+#btnsingin{
+    box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 75px;
+top: 247px;
+
+background: #F85F00;
+border: 1px solid #000000;
+border-radius: 8px;
+}
+#noregister{
+    position: absolute;
+width: 184px;
+height: 17px;
+left: 144px;
+top: 410px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}

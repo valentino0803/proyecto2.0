@@ -1,0 +1,8 @@
+SingUp/registrarse
+Billetera
+Random 
+Vista Jugadores 
+Mejores Jugadores
+Compra Venta 
+Usuario
+Packs De Compra?
